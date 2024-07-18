@@ -1,0 +1,1 @@
+These are the codes related to published conference named " Forecasting stock prices using Gated Recurrent Unit with the feature engineering", published in the year 2023 in an IEEE Conference proceeding.
